@@ -1,0 +1,8 @@
+Package: knaf
+Title: k-NN and friends
+Version: 0.0.0.9000
+Author: Tim Kreienkamp
+Description: Multiclass Classification and Utility functions
+Depends: R (>= 3.1.1)
+License: see license
+LazyData: true
